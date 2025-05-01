@@ -1,5 +1,8 @@
 ## TM4C1294GrblDriver
 
+__*** Archived, no longer supported ***___
+
+
 A grblHAL 6-axis driver for the Texas Instruments [EK-TM4C1294XL Launchpad](https://www.ti.com/tool/EK-TM4C1294XL#)
 
 See the Wiki-page for [compiling grblHAL](https://github.com/grblHAL/core/wiki/Compiling-GrblHAL) for instructions for how to import the project, configure the driver and compile.
@@ -19,4 +22,4 @@ Manual tool change also works when streaming from SD card!
 **NOTE:** Some of the files in this project has a license text in the header that has been superseded by the text in [TI-BSD-EULA.txt](TI-BSD-EULA.txt). TODO: create a manifest detailing which parts are third-party.
 
 ---
-2021-08-11
+2025-05-01
